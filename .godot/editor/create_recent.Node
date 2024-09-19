@@ -1,5 +1,6 @@
-TileMap
 TileMapLayer
+CollisionShape2D
+TileMap
 AudioStreamPlayer
 ColorRect
 Timer
@@ -11,4 +12,3 @@ Path2D
 Marker2D
 Node
 Node2D
-VisibleOnScreenNotifier2D
