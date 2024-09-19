@@ -1,0 +1,22 @@
+[gd_scene load_steps=3 format=3 uid="uid://qixqgq3s3aqd"]
+
+[ext_resource type="Script" path="res://source/main.gd" id="1_xvmqv"]
+[ext_resource type="PackedScene" uid="uid://d118r6txid11x" path="res://source/player.tscn" id="2_u4op8"]
+
+[node name="Main" type="Node"]
+script = ExtResource("1_xvmqv")
+
+[node name="ColorRect" type="ColorRect" parent="."]
+visible = false
+anchors_preset = 15
+anchor_right = 1.0
+anchor_bottom = 1.0
+grow_horizontal = 2
+grow_vertical = 2
+
+[node name="Player" parent="." instance=ExtResource("2_u4op8")]
+
+[node name="StartPosition" type="Marker2D" parent="."]
+position = Vector2(240, 450)
+
+[connection signal="hit" from="Player" to="." method="game_over"]
