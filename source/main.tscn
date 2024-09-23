@@ -150,5 +150,3 @@ tile_set = SubResource("TileSet_13g0m")
 
 [node name="StartPosition" type="Marker2D" parent="."]
 position = Vector2(525, 402)
-
-[connection signal="hit" from="Player" to="." method="game_over"]
