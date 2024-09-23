@@ -2,7 +2,6 @@ extends CharacterBody2D
 
 @export var speed = 400
 var screen_size
-signal hit
 
 # Called when the node enters the scene tree for the first time.
 func _ready() -> void:
@@ -29,7 +28,8 @@ func _process(delta: float) -> void:
 		velocity = velocity.normalized() * speed
 		$AnimatedSprite2D.play()
 	else:
-		$AnimatedSprite2D.stop()
+		$AnimatedSprite2D.animation = "idle_down"
+		#$AnimatedSprite2D.stop()
 		
 	position += velocity * delta
 	position = position.clamp(Vector2.ZERO, screen_size)
@@ -39,3 +39,5 @@ func start(pos):
 	position = pos
 	show()
 	$CollisionShape2D.disabled = false
+	$AnimatedSprite2D.animation = "idle_down"
+	$AnimatedSprite2D.play()
