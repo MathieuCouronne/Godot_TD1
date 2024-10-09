@@ -1,12 +1,14 @@
 using Godot;
+using System;
 namespace VampireSurv.source;
 
 [GlobalClass]
 public partial class OverrideMainLoop : SceneTree
 {
     public static OverrideMainLoop Instance;
+    public SaveManager SaveManager;
     //public LevelManager LevelManager;
-    //public SaveManager SaveManager;
+
     
     public override void _Initialize()
     {
@@ -14,19 +16,29 @@ public partial class OverrideMainLoop : SceneTree
         if (Instance == null)
             Instance = this;
     }
+    
+    public override bool _Process(double delta)
+    {
+        return  base._Process(delta);
+    }
+
+    public override void _Finalize()
+    {
+        GD.Print("Bye");
+    }
 
     public static OverrideMainLoop Get()
     {
         return Instance;
     }
 
-    /*public LevelManager GetLevelManager()
-    {
-        return LevelManager;
-    }
+    //public LevelManager GetLevelManager()
+    //{
+     //   return LevelManager;
+    //}
 
     public SaveManager GetSaveManager()
     {
-        return saveManager;
-    }*/
+        return SaveManager.Get();
+    }
 }
