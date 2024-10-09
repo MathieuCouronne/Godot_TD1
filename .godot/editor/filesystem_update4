@@ -1,6 +1,5 @@
-res://source/player.tscn
-res://source/player.gd
 res://source/main.tscn
-res://source/main.gd
+res://source/player.gd
 res://source/Main.cs
+res://source/SaveManager.cs
 res://source/OverrideMainLoop.cs

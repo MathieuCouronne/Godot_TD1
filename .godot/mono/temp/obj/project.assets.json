@@ -88,19 +88,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\enzoh\\.nuget\\packages\\": {}
+    "C:\\Users\\mathi\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\enzoh\\OneDrive\\Documents\\GitHub\\Godot Vampire Survivor\\Godot_TD1\\Vampire Surv.csproj",
+      "projectUniqueName": "C:\\Users\\mathi\\Documents\\Game\\Godot\\Godot_TD1\\Vampire Surv.csproj",
       "projectName": "Vampire Surv",
-      "projectPath": "C:\\Users\\enzoh\\OneDrive\\Documents\\GitHub\\Godot Vampire Survivor\\Godot_TD1\\Vampire Surv.csproj",
-      "packagesPath": "C:\\Users\\enzoh\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\enzoh\\OneDrive\\Documents\\GitHub\\Godot Vampire Survivor\\Godot_TD1\\.godot\\mono\\temp\\obj\\",
+      "projectPath": "C:\\Users\\mathi\\Documents\\Game\\Godot\\Godot_TD1\\Vampire Surv.csproj",
+      "packagesPath": "C:\\Users\\mathi\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\mathi\\Documents\\Game\\Godot\\Godot_TD1\\.godot\\mono\\temp\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\enzoh\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "C:\\Users\\mathi\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net6.0"
@@ -172,7 +172,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.401\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.402\\RuntimeIdentifierGraph.json"
       }
     }
   }

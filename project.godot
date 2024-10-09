@@ -17,6 +17,10 @@ run/main_loop_type="OverrideMainLoop"
 config/features=PackedStringArray("4.3", "C#")
 config/icon="res://icon.png"
 
+[autoload]
+
+SaveManager="*res://source/SaveManager.cs"
+
 [display]
 
 window/size/viewport_width=1280
@@ -26,6 +30,10 @@ window/stretch/mode="canvas_items"
 [dotnet]
 
 project/assembly_name="Vampire Surv"
+
+[global_group]
+
+Save=""
 
 [input]
 

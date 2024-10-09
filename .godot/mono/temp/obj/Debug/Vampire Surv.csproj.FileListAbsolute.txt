@@ -16,3 +16,21 @@ C:\Users\enzoh\OneDrive\Documents\GitHub\Godot Vampire Survivor\Godot_TD1\.godot
 C:\Users\enzoh\OneDrive\Documents\GitHub\Godot Vampire Survivor\Godot_TD1\.godot\mono\temp\obj\Debug\Vampire Surv.pdb
 C:\Users\enzoh\OneDrive\Documents\GitHub\Godot Vampire Survivor\Godot_TD1\.godot\mono\temp\obj\Debug\Vampire Surv.genruntimeconfig.cache
 C:\Users\enzoh\OneDrive\Documents\GitHub\Godot Vampire Survivor\Godot_TD1\.godot\mono\temp\obj\Debug\ref\Vampire Surv.dll
+C:\Users\mathi\Documents\Game\Godot\Godot_TD1\.godot\mono\temp\bin\Debug\Vampire Surv.deps.json
+C:\Users\mathi\Documents\Game\Godot\Godot_TD1\.godot\mono\temp\bin\Debug\Vampire Surv.runtimeconfig.json
+C:\Users\mathi\Documents\Game\Godot\Godot_TD1\.godot\mono\temp\bin\Debug\Vampire Surv.dll
+C:\Users\mathi\Documents\Game\Godot\Godot_TD1\.godot\mono\temp\bin\Debug\Vampire Surv.pdb
+C:\Users\mathi\Documents\Game\Godot\Godot_TD1\.godot\mono\temp\bin\Debug\GodotSharp.dll
+C:\Users\mathi\Documents\Game\Godot\Godot_TD1\.godot\mono\temp\bin\Debug\GodotSharpEditor.dll
+C:\Users\mathi\Documents\Game\Godot\Godot_TD1\.godot\mono\temp\obj\Debug\Vampire Surv.csproj.AssemblyReference.cache
+C:\Users\mathi\Documents\Game\Godot\Godot_TD1\.godot\mono\temp\obj\Debug\Vampire Surv.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mathi\Documents\Game\Godot\Godot_TD1\.godot\mono\temp\obj\Debug\Vampire Surv.AssemblyInfoInputs.cache
+C:\Users\mathi\Documents\Game\Godot\Godot_TD1\.godot\mono\temp\obj\Debug\Vampire Surv.AssemblyInfo.cs
+C:\Users\mathi\Documents\Game\Godot\Godot_TD1\.godot\mono\temp\obj\Debug\Vampire Surv.csproj.CoreCompileInputs.cache
+C:\Users\mathi\Documents\Game\Godot\Godot_TD1\.godot\mono\temp\obj\Debug\Vampire Surv.sourcelink.json
+C:\Users\mathi\Documents\Game\Godot\Godot_TD1\.godot\mono\temp\obj\Debug\Vampire .E55FCA1D.Up2Date
+C:\Users\mathi\Documents\Game\Godot\Godot_TD1\.godot\mono\temp\obj\Debug\Vampire Surv.dll
+C:\Users\mathi\Documents\Game\Godot\Godot_TD1\.godot\mono\temp\obj\Debug\refint\Vampire Surv.dll
+C:\Users\mathi\Documents\Game\Godot\Godot_TD1\.godot\mono\temp\obj\Debug\Vampire Surv.pdb
+C:\Users\mathi\Documents\Game\Godot\Godot_TD1\.godot\mono\temp\obj\Debug\Vampire Surv.genruntimeconfig.cache
+C:\Users\mathi\Documents\Game\Godot\Godot_TD1\.godot\mono\temp\obj\Debug\ref\Vampire Surv.dll
