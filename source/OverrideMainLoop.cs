@@ -5,9 +5,9 @@ namespace VampireSurv.source;
 [GlobalClass]
 public partial class OverrideMainLoop : SceneTree
 {
-    public static OverrideMainLoop Instance;
-    public SaveManager SaveManager;
-    //public LevelManager LevelManager;
+    private static OverrideMainLoop Instance;
+    private SaveManager SaveManager;
+    private LevelManager LevelManager;
 
     
     public override void _Initialize()
@@ -15,6 +15,8 @@ public partial class OverrideMainLoop : SceneTree
         GD.Print("Hi");
         if (Instance == null)
             Instance = this;
+        if (LevelManager == null)
+            LevelManager = new LevelManager(this);
     }
     
     public override bool _Process(double delta)
@@ -32,10 +34,10 @@ public partial class OverrideMainLoop : SceneTree
         return Instance;
     }
 
-    //public LevelManager GetLevelManager()
-    //{
-     //   return LevelManager;
-    //}
+    public LevelManager GetLevelManager()
+    {
+        return LevelManager;
+    }
 
     public SaveManager GetSaveManager()
     {

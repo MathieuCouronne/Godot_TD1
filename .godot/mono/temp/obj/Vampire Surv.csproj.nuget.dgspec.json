@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\mathi\\Documents\\Game\\Godot\\Godot_TD1\\Vampire Surv.csproj": {}
+    "C:\\Users\\Massko\\Desktop\\Enzo PC\\COURS UQAC\\Prog Moteurs\\Godot_TD1\\Vampire Surv.csproj": {}
   },
   "projects": {
-    "C:\\Users\\mathi\\Documents\\Game\\Godot\\Godot_TD1\\Vampire Surv.csproj": {
+    "C:\\Users\\Massko\\Desktop\\Enzo PC\\COURS UQAC\\Prog Moteurs\\Godot_TD1\\Vampire Surv.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\mathi\\Documents\\Game\\Godot\\Godot_TD1\\Vampire Surv.csproj",
+        "projectUniqueName": "C:\\Users\\Massko\\Desktop\\Enzo PC\\COURS UQAC\\Prog Moteurs\\Godot_TD1\\Vampire Surv.csproj",
         "projectName": "Vampire Surv",
-        "projectPath": "C:\\Users\\mathi\\Documents\\Game\\Godot\\Godot_TD1\\Vampire Surv.csproj",
-        "packagesPath": "C:\\Users\\mathi\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\mathi\\Documents\\Game\\Godot\\Godot_TD1\\.godot\\mono\\temp\\obj\\",
+        "projectPath": "C:\\Users\\Massko\\Desktop\\Enzo PC\\COURS UQAC\\Prog Moteurs\\Godot_TD1\\Vampire Surv.csproj",
+        "packagesPath": "C:\\Users\\Massko\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Massko\\Desktop\\Enzo PC\\COURS UQAC\\Prog Moteurs\\Godot_TD1\\.godot\\mono\\temp\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\mathi\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\Massko\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net6.0"
