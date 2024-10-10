@@ -1,3 +1,9 @@
-res://source/player.tscn
+res://source/menu.tscn
 res://source/player.gd
+res://source/player.tscn
 res://source/main.tscn
+res://source/LevelManager.cs
+res://source/Main.cs
+res://source/Menu.cs
+res://source/OverrideMainLoop.cs
+res://source/SaveManager.cs
